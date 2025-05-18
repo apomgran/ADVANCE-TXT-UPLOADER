@@ -1,5 +1,5 @@
-# Don't Remove Credit Tg - @ytbr_67
-# Ask Doubt on telegram @ytbr_67
+# Don't Remove Credit Tg - @Extractbott_bot
+# Ask Doubt on telegram @Extractbott_bot
 
 import os
 import re
@@ -64,12 +64,12 @@ async def show_random_emojis(message):
     return emoji_message
     
 # Define the owner's user ID
-OWNER_ID = 6103594386  # Replace with the actual owner's user ID
+OWNER_ID = 6677821706  # Replace with the actual owner's user ID
 
 # List of sudo users (initially empty or pre-populated)
-SUDO_USERS = [6103594386, 7545056722, 5854926266]
+SUDO_USERS = [6677821706, 7545056722, 5854926266]
 
-AUTH_CHANNEL = -1002572301679
+AUTH_CHANNEL = --1002439425631
 
 # Premium system functions
 def is_premium_user(user_id: int) -> bool:
