@@ -1,6 +1,5 @@
-# Don't Remove Credit Tg - @Extractbott_bot
-# Ask Doubt on telegram @Extractbott_bot
-
+# Don't Remove Credit Tg - @ytbr_67
+# Ask Doubt on telegram @ytbr_67
 import os
 import re
 import sys
